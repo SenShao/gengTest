@@ -1,5 +1,5 @@
 PODS:
-  - gengTest (0.2.0)
+  - gengTest (0.3.0)
 
 DEPENDENCIES:
   - gengTest (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  gengTest: 77a3ea0d66205a448847e586729c0025abb954bf
+  gengTest: 096b15cd7aac54e5ddc43860f26d0a13834904e2
 
 PODFILE CHECKSUM: 820403a568920cd169a2e5a28a9d5535de1c597c
 

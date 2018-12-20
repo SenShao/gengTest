@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "NSDate+JAExt.h"
 #import "UIView+JAExt.h"
 
 FOUNDATION_EXPORT double gengTestVersionNumber;
