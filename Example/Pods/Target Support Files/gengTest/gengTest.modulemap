@@ -1,0 +1,6 @@
+framework module gengTest {
+  umbrella header "gengTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

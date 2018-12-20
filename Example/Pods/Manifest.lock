@@ -1,0 +1,16 @@
+PODS:
+  - gengTest (0.1.0)
+
+DEPENDENCIES:
+  - gengTest (from `../`)
+
+EXTERNAL SOURCES:
+  gengTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  gengTest: ed2d2fae32823803d25038753a1253a52bf734bb
+
+PODFILE CHECKSUM: 820403a568920cd169a2e5a28a9d5535de1c597c
+
+COCOAPODS: 1.5.3
