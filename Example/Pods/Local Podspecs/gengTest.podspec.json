@@ -1,0 +1,22 @@
+{
+  "name": "gengTest",
+  "version": "0.5.0",
+  "summary": "A short description of gengTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SenShao/gengTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Gengsensen123": "1404540133@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/SenShao/gengTest.git",
+    "tag": "0.5.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "gengTest/Classes/**/*"
+}
