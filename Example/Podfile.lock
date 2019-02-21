@@ -1,6 +1,6 @@
 PODS:
   - CTMediator (25)
-  - gengTest (0.5.0):
+  - gengTest (0.7.0):
     - CTMediator
 
 DEPENDENCIES:
@@ -16,7 +16,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   CTMediator: 830c1fc204b3a6abf2a059510c7380f56343da0f
-  gengTest: cd5e1b7fd22c27739086d891761daf5150a97e9c
+  gengTest: 79a7a7e6afa745a91665919789fae994e1e256fe
 
 PODFILE CHECKSUM: 820403a568920cd169a2e5a28a9d5535de1c597c
 
