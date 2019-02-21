@@ -10,8 +10,9 @@
 #endif
 #endif
 
-#import "NSDate+JAExt.h"
-#import "UIView+JAExt.h"
+#import "CTMediator+gengTest.h"
+#import "GNTestViewController.h"
+#import "Target_GNTestViewController.h"
 
 FOUNDATION_EXPORT double gengTestVersionNumber;
 FOUNDATION_EXPORT const unsigned char gengTestVersionString[];

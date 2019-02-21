@@ -7,7 +7,9 @@
 //
 
 #import "gengTestViewController.h"
-
+#import "GNTestViewController.h"
+#import <CTMediator/CTMediator.h>
+#import "CTMediator+gengTest.h"
 @interface gengTestViewController ()
 
 @end
@@ -18,6 +20,17 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+}
+-(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
+    
+    GNTestViewController * vc = [[CTMediator sharedInstance]GNTestViewController];
+    
+    if (vc) {
+        
+        [self presentViewController:vc animated:YES completion:nil];
+
+    }
+    
 }
 
 - (void)didReceiveMemoryWarning

@@ -1,15 +1,22 @@
 PODS:
-  - gengTest (0.3.0)
+  - CTMediator (25)
+  - gengTest (0.5.0):
+    - CTMediator
 
 DEPENDENCIES:
   - gengTest (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CTMediator
 
 EXTERNAL SOURCES:
   gengTest:
     :path: "../"
 
 SPEC CHECKSUMS:
-  gengTest: 096b15cd7aac54e5ddc43860f26d0a13834904e2
+  CTMediator: 830c1fc204b3a6abf2a059510c7380f56343da0f
+  gengTest: cd5e1b7fd22c27739086d891761daf5150a97e9c
 
 PODFILE CHECKSUM: 820403a568920cd169a2e5a28a9d5535de1c597c
 

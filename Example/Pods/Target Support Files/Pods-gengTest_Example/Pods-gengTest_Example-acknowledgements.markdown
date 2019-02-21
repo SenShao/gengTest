@@ -1,6 +1,11 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
+## CTMediator
+
+MIT
+
+
 ## gengTest
 
 Copyright (c) 2018 Gengsensen123 <1404540133@qq.com>
